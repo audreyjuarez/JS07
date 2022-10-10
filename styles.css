@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(144, 126, 168);
+}
+thead{
+    background-color: rgb(34, 13, 43);
+}
+th,h1{
+    color:azure;
+}
+img{
+    max-width: 50px;
+    max-height: 50px;
+}
